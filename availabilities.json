@@ -1,0 +1,400 @@
+{
+  "Availabilities": [
+    {
+      "Id": 12345,
+      "Staff": {
+        "Id": 789,
+        "Name": "Dr. Sarah Johnson",
+        "FirstName": "Sarah",
+        "LastName": "Johnson",
+        "Bio": "Board certified aesthetic physician",
+        "Email": "sarah.johnson@medspa.com"
+      },
+      "SessionType": {
+        "Id": 456,
+        "Name": "Botox Consultation",
+        "Description": "Initial consultation for Botox treatment",
+        "Duration": 60,
+        "Price": 150.00
+      },
+      "Program": {
+        "Id": 111,
+        "Name": "Facial Aesthetics",
+        "Description": "Injectable and facial treatments",
+        "Category": "Medical"
+      },
+      "StartDateTime": "2024-12-17T09:00:00Z",
+      "EndDateTime": "2024-12-17T10:00:00Z",
+      "BookableEndDateTime": "2024-12-17T09:45:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    },
+    {
+      "Id": 12346,
+      "Staff": {
+        "Id": 790,
+        "Name": "Lisa Chen",
+        "FirstName": "Lisa",
+        "LastName": "Chen",
+        "Bio": "Licensed aesthetician",
+        "Email": "lisa.chen@medspa.com"
+      },
+      "SessionType": {
+        "Id": 457,
+        "Name": "Hydrafacial",
+        "Description": "Advanced facial treatment",
+        "Duration": 90,
+        "Price": 299.00
+      },
+      "Program": {
+        "Id": 112,
+        "Name": "Skin Treatments",
+        "Description": "Advanced skincare procedures",
+        "Category": "Aesthetic"
+      },
+      "StartDateTime": "2024-12-17T11:00:00Z",
+      "EndDateTime": "2024-12-17T12:30:00Z",
+      "BookableEndDateTime": "2024-12-17T12:15:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    },
+    {
+      "Id": 12347,
+      "Staff": {
+        "Id": 791,
+        "Name": "Dr. Michael Park",
+        "FirstName": "Michael",
+        "LastName": "Park",
+        "Bio": "Specialized in laser treatments",
+        "Email": "michael.park@medspa.com"
+      },
+      "SessionType": {
+        "Id": 458,
+        "Name": "Laser Hair Removal",
+        "Description": "Full body laser treatment",
+        "Duration": 120,
+        "Price": 499.00
+      },
+      "Program": {
+        "Id": 113,
+        "Name": "Laser Treatments",
+        "Description": "Advanced laser procedures",
+        "Category": "Medical"
+      },
+      "StartDateTime": "2024-12-17T13:00:00Z",
+      "EndDateTime": "2024-12-17T15:00:00Z",
+      "BookableEndDateTime": "2024-12-17T14:45:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    },
+    {
+      "Id": 12348,
+      "Staff": {
+        "Id": 789,
+        "Name": "Dr. Sarah Johnson",
+        "FirstName": "Sarah",
+        "LastName": "Johnson",
+        "Bio": "Board certified aesthetic physician",
+        "Email": "sarah.johnson@medspa.com"
+      },
+      "SessionType": {
+        "Id": 459,
+        "Name": "Filler Treatment",
+        "Description": "Dermal filler injection session",
+        "Duration": 45,
+        "Price": 700.00
+      },
+      "Program": {
+        "Id": 111,
+        "Name": "Facial Aesthetics",
+        "Description": "Injectable and facial treatments",
+        "Category": "Medical"
+      },
+      "StartDateTime": "2024-12-17T15:15:00Z",
+      "EndDateTime": "2024-12-17T16:00:00Z",
+      "BookableEndDateTime": "2024-12-17T15:45:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    },
+    {
+      "Id": 12349,
+      "Staff": {
+        "Id": 790,
+        "Name": "Lisa Chen",
+        "FirstName": "Lisa",
+        "LastName": "Chen",
+        "Bio": "Licensed aesthetician",
+        "Email": "lisa.chen@medspa.com"
+      },
+      "SessionType": {
+        "Id": 460,
+        "Name": "Chemical Peel",
+        "Description": "Advanced chemical peel treatment",
+        "Duration": 60,
+        "Price": 250.00
+      },
+      "Program": {
+        "Id": 112,
+        "Name": "Skin Treatments",
+        "Description": "Advanced skincare procedures",
+        "Category": "Aesthetic"
+      },
+      "StartDateTime": "2024-12-18T09:00:00Z",
+      "EndDateTime": "2024-12-18T10:00:00Z",
+      "BookableEndDateTime": "2024-12-18T09:45:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    },
+    {
+      "Id": 12350,
+      "Staff": {
+        "Id": 792,
+        "Name": "Amanda Rodriguez",
+        "FirstName": "Amanda",
+        "LastName": "Rodriguez",
+        "Bio": "Certified massage therapist",
+        "Email": "amanda.rodriguez@medspa.com"
+      },
+      "SessionType": {
+        "Id": 461,
+        "Name": "Deep Tissue Massage",
+        "Description": "Therapeutic massage session",
+        "Duration": 90,
+        "Price": 180.00
+      },
+      "Program": {
+        "Id": 114,
+        "Name": "Massage Therapy",
+        "Description": "Therapeutic massage services",
+        "Category": "Wellness"
+      },
+      "StartDateTime": "2024-12-18T10:00:00Z",
+      "EndDateTime": "2024-12-18T11:30:00Z",
+      "BookableEndDateTime": "2024-12-18T11:15:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    },
+    {
+      "Id": 12351,
+      "Staff": {
+        "Id": 791,
+        "Name": "Dr. Michael Park",
+        "FirstName": "Michael",
+        "LastName": "Park",
+        "Bio": "Specialized in laser treatments",
+        "Email": "michael.park@medspa.com"
+      },
+      "SessionType": {
+        "Id": 462,
+        "Name": "IPL Treatment",
+        "Description": "Intense Pulsed Light therapy",
+        "Duration": 45,
+        "Price": 350.00
+      },
+      "Program": {
+        "Id": 113,
+        "Name": "Laser Treatments",
+        "Description": "Advanced laser procedures",
+        "Category": "Medical"
+      },
+      "StartDateTime": "2024-12-18T13:00:00Z",
+      "EndDateTime": "2024-12-18T13:45:00Z",
+      "BookableEndDateTime": "2024-12-18T13:30:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    },
+    {
+      "Id": 12352,
+      "Staff": {
+        "Id": 793,
+        "Name": "Emma Thompson",
+        "FirstName": "Emma",
+        "LastName": "Thompson",
+        "Bio": "Skincare specialist",
+        "Email": "emma.thompson@medspa.com"
+      },
+      "SessionType": {
+        "Id": 463,
+        "Name": "Microdermabrasion",
+        "Description": "Deep exfoliation treatment",
+        "Duration": 45,
+        "Price": 175.00
+      },
+      "Program": {
+        "Id": 112,
+        "Name": "Skin Treatments",
+        "Description": "Advanced skincare procedures",
+        "Category": "Aesthetic"
+      },
+      "StartDateTime": "2024-12-18T14:00:00Z",
+      "EndDateTime": "2024-12-18T14:45:00Z",
+      "BookableEndDateTime": "2024-12-18T14:30:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    },
+    {
+      "Id": 12353,
+      "Staff": {
+        "Id": 789,
+        "Name": "Dr. Sarah Johnson",
+        "FirstName": "Sarah",
+        "LastName": "Johnson",
+        "Bio": "Board certified aesthetic physician",
+        "Email": "sarah.johnson@medspa.com"
+      },
+      "SessionType": {
+        "Id": 464,
+        "Name": "Kybella Treatment",
+        "Description": "Injectable fat reduction",
+        "Duration": 60,
+        "Price": 800.00
+      },
+      "Program": {
+        "Id": 111,
+        "Name": "Facial Aesthetics",
+        "Description": "Injectable and facial treatments",
+        "Category": "Medical"
+      },
+      "StartDateTime": "2024-12-19T09:00:00Z",
+      "EndDateTime": "2024-12-19T10:00:00Z",
+      "BookableEndDateTime": "2024-12-19T09:45:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    },
+    {
+      "Id": 12354,
+      "Staff": {
+        "Id": 792,
+        "Name": "Amanda Rodriguez",
+        "FirstName": "Amanda",
+        "LastName": "Rodriguez",
+        "Bio": "Certified massage therapist",
+        "Email": "amanda.rodriguez@medspa.com"
+      },
+      "SessionType": {
+        "Id": 465,
+        "Name": "Hot Stone Massage",
+        "Description": "Relaxing hot stone therapy",
+        "Duration": 90,
+        "Price": 200.00
+      },
+      "Program": {
+        "Id": 114,
+        "Name": "Massage Therapy",
+        "Description": "Therapeutic massage services",
+        "Category": "Wellness"
+      },
+      "StartDateTime": "2024-12-19T10:30:00Z",
+      "EndDateTime": "2024-12-19T12:00:00Z",
+      "BookableEndDateTime": "2024-12-19T11:45:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    },
+    {
+      "Id": 12355,
+      "Staff": {
+        "Id": 793,
+        "Name": "Emma Thompson",
+        "FirstName": "Emma",
+        "LastName": "Thompson",
+        "Bio": "Skincare specialist",
+        "Email": "emma.thompson@medspa.com"
+      },
+      "SessionType": {
+        "Id": 466,
+        "Name": "LED Light Therapy",
+        "Description": "Advanced skin rejuvenation",
+        "Duration": 30,
+        "Price": 150.00
+      },
+      "Program": {
+        "Id": 112,
+        "Name": "Skin Treatments",
+        "Description": "Advanced skincare procedures",
+        "Category": "Aesthetic"
+      },
+      "StartDateTime": "2024-12-19T13:00:00Z",
+      "EndDateTime": "2024-12-19T13:30:00Z",
+      "BookableEndDateTime": "2024-12-19T13:15:00Z",
+      "Location": {
+        "Id": 222,
+        "Name": "Downtown MedSpa",
+        "Address": "123 Main Street",
+        "City": "Boston",
+        "State": "MA",
+        "PostalCode": "02108",
+        "Phone": "617-555-0123"
+      }
+    }
+  ]
+}
