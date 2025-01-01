@@ -1,5 +1,5 @@
 <Response>
-<Say>Happy Thanksgiving!</Say>
+<Say>beep boop.</Say>
 <Pause length="0.2"/>
 <Play digits="9"/>
 </Response>
